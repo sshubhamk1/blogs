@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Python
+title: System Design
 ---
 
-# Python
+# System Design
 
 ## Articles
 Articles coming soon 😊
