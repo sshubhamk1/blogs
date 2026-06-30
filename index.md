@@ -7,8 +7,11 @@ title: Home
 
 This is my engineering blog.
 
-## Articles
+## Topics
 
-- [Dynamic Programming](dynamic-programming)
-- [System Design](system-design)
-- [Python Internals](python-internals)
+- [Programming](programming/)
+- [System Design](system-design/)
+- [Low Level Design](low-level-design/)
+- [Leetcode](leetcode/)
+- [Python](python/)
+- [Case Study](case-study/)
