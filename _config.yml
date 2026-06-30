@@ -1,0 +1,8 @@
+title: Shubham Kumar's Blog
+description: Backend Engineering Notes
+theme: jekyll-theme-architect
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
