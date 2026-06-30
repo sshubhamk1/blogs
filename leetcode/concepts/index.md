@@ -6,4 +6,4 @@ title: Leetcode Concepts
 # Leetcode Concepts
 
 ## Concepts
-Articles coming soon 😊
+Concepts coming soon 😊
