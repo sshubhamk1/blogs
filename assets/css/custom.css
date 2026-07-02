@@ -162,3 +162,87 @@ html[data-theme="dark"] #reading-progress {
         #1f6feb
     );
 }
+
+/* =======================================================
+   CODE BLOCKS
+======================================================= */
+
+.highlight,
+pre {
+
+    position: relative;
+
+    border-radius: 12px;
+
+    overflow: hidden;
+
+    margin: 24px 0;
+
+    border: 1px solid var(--border);
+
+    box-shadow: 0 3px 12px var(--shadow);
+}
+
+.code-toolbar {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 10px 14px;
+
+    background: var(--button-bg);
+
+    border-bottom: 1px solid var(--border);
+
+    font-size: 14px;
+
+    font-weight: 600;
+}
+
+.code-language {
+
+    color: var(--text);
+
+    text-transform: uppercase;
+
+    letter-spacing: .08em;
+
+    font-size: 12px;
+}
+
+.copy-btn {
+
+    border: none;
+
+    background: transparent;
+
+    cursor: pointer;
+
+    color: var(--link);
+
+    font-size: 14px;
+
+    font-weight: 600;
+}
+
+.copy-btn:hover {
+
+    opacity: .75;
+}
+
+.highlight pre,
+pre {
+
+    margin: 0;
+
+    border: none;
+
+    box-shadow: none;
+
+    border-radius: 0;
+
+    overflow-x: auto;
+}
