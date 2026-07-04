@@ -52,29 +52,45 @@
 
 <body>
   <div id="reading-progress"></div>
-  <header>
-    <div class="inner">
-      <a href="{{ '/' | absolute_url }}">
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-      </a>
-      <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+  <header class="hero">
 
-      {% if site.github.is_user_page %}
-      <a href="{{ site.github.owner_url }}" class="button">
-        <small>Follow me on</small> GitHub
-      </a>
-      {% endif %}
-      <div class="connect-me">
-        <span>Connect Me:</span>
-        <a href="{{ site.github_url | default: '#' }}">GitHub</a>
-        <a href="{{ site.linkedin_url | default: '#' }}">LinkedIn</a>
-        <a href="{{ site.instagram_url | default: '#' }}">Instagram</a>
-        <a href="{{ site.portfolio_url | default: '#' }}">Portfolio</a>
+    <div class="hero-card">
+
+      <div class="hero-left">
+
+        <div class="profile-image">
+          <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Shubham Kumar">
+        </div>
+
+        <div class="hero-info">
+
+          <h1>Shubham Kumar</h1>
+
+          <p class="subtitle">
+            Backend Engineer • Python • Django
+          </p>
+
+          <p class="description">
+            I write about scalable backend systems,
+            distributed architecture,
+            Django internals,
+            algorithms and databases.
+          </p>
+
+          <div class="hero-buttons">
+            <a class="btn" id="theme-toggle" aria-label="Toggle theme">🌙</a>
+            <a class="btn" href="{{ site.github_url }}">GitHub</a>
+            <a class="btn" href="{{ site.linkedin_url }}">LinkedIn</a>
+            <a class="btn" href="{{ site.portfolio_url }}">Portfolio</a>
+            <a class="btn" href="{{ site.instagram_url}}">Instagram</a>
+
+          </div>
+
+        </div>
+
       </div>
-      <button id="theme-toggle" aria-label="Toggle theme">
-    🌙
-</button>
     </div>
+
   </header>
 
   <div id="content-wrapper">
@@ -84,9 +100,9 @@
       </section>
     </div>
   </div>
-<script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/progress.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/copy.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/progress.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/copy.js' | relative_url }}"></script>
 </body>
 
 </html>
