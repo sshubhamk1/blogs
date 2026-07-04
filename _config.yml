@@ -1,6 +1,11 @@
 title: Shubham Kumar's Blog
 description: Backend Engineering Notes
 theme: jekyll-theme-architect
+github_url: "https://github.com/sshubhamk1"
+linkedin_url: "https://linkedin.com/in/sshubhamk1"
+instagram_url: "https://instagram.com/shubh_app"
+portfolio_url: "https://sshubhamk1.github.io"
+
 
 markdown: kramdown
 highlighter: rouge
