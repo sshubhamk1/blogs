@@ -3,6 +3,9 @@ description: Backend Engineering Notes
 theme: jekyll-theme-architect
 
 markdown: kramdown
+highlighter: rouge
 
+kramdown:
+  syntax_highlighter: rouge
 plugins:
   - jekyll-feed

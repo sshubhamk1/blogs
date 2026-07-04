@@ -245,4 +245,31 @@ pre {
     border-radius: 0;
 
     overflow-x: auto;
+    padding: 1em;
+}
+
+/* Entire syntax highlighting container */
+
+.highlight,
+.highlighter-rouge,
+.highlight pre,
+.highlighter-rouge pre,
+.highlight code,
+.highlighter-rouge code {
+
+    background: var(--code-bg) !important;
+    color: var(--text) !important;
+}
+
+/* Remove nested backgrounds */
+
+.highlight pre,
+.highlight code {
+
+    background: transparent !important;
+}
+html[data-theme="dark"] code {
+
+    background: var(--inline-code-bg) !important;
+    color: #79c0ff !important;
 }
