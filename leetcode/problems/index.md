@@ -12,6 +12,7 @@ title: Leetcode Problems
 - [739. Daily Temperatures](739)
 - [901. Online Stock Span](901)
 - [1268. Search Suggestions System](1268)
+- [1288. Remove Covered Intervals](1288)
 - [1301. Number of Paths with Max Score](1301)
 - [1358. Number of Substrings Containing All Three Characters](1358)
 - [2492. Minimum Score of a Path Between Two Cities](2492)
