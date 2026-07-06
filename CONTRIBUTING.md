@@ -1,4 +1,4 @@
-# Contributing to [Your Blog Name/Repository Name]
+# Contributing to [sshubhamk1/blogs]
 
 First off, thank you for considering contributing! It's people like you who make this repository a valuable resource for the community.
 
