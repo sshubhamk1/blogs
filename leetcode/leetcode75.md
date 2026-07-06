@@ -4,6 +4,12 @@ title: Leetcode 75
 ---
 # Leetcode 75 Problems
 
+## DP - Multidimensional
+- [714. Best Time to Buy and Sell Stock with Transaction Fee](./problems/714-best-time-to-buy-and-sell-stock-with-transaction-fee.md)
+- [72. Edit Distance](./problems/72-edit-distance.md)
+- [1143. Longest Common Subsequence](./problems/1143-longest-common-subsequence.md)
+- [62. Unique Paths](./problems/62-unique-paths.md)
+
 ## Bit Manipulation
 - [338. Counting Bits](./problems/338-counting-bits.md)
 - [136. Single Number](./problems/136-single-number.md)
