@@ -5,7 +5,9 @@ title: Leetcode 75
 # Leetcode 75 Problems
 
 ## Bit Manipulation
- - [1318. Minimum Flips to Make a OR b Equal to c](./problems/1318-minimum-flips-to-make-a-or-b-equal-to-c.md)
+- [338. Counting Bits](./problems/338-counting-bits.md)
+- [136. Single Number](./problems/136-single-number.md)
+- [1318. Minimum Flips to Make a OR b Equal to c](./problems/1318-minimum-flips-to-make-a-or-b-equal-to-c.md)
 
 ## Trie
 - [208. Implement Trie (Prefix Tree)](./problems/208-implement-trie-prefix-tree.md)

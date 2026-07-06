@@ -6,7 +6,9 @@ title: Leetcode Problems
 # Leetcode Problems
 
 ## Problems
+- [136. Single Number](./136-single-number.md)
 - [208. Implement Trie (Prefix Tree)](./208-implement-trie-prefix-tree.md)
+- [338. Counting Bits](./338-counting-bits.md)
 - [435. Non-overlapping Intervals](./435-non-overlapping-intervals.md)
 - [452. Minimum Number of Arrows to Burst Balloons](./452-minimum-number-of-arrows-to-burst-balloons.md)
 - [739. Daily Temperatures](./739-daily-temperatures.md)
