@@ -6,7 +6,7 @@ linkedin_url: "https://linkedin.com/in/sshubhamk1"
 instagram_url: "https://instagram.com/shubh_app"
 portfolio_url: "https://sshubhamk1.github.io"
 
-
+permalink: pretty
 markdown: kramdown
 highlighter: rouge
 
