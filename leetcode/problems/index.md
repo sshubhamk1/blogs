@@ -26,3 +26,4 @@ title: Leetcode Problems
 - [2812. Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid.md)
 - [3286. Find a Safe Walk Through a Grid](./3286-find-a-safe-walk-through-a-grid)
 - [3620. Network Recovery Pathways](./3620-network-recovery-pathways.md)
+- [3754. Concatenate Non-Zero Digits and Multiply by Sum I](./3754-concatenate-non-zero-digits-and-multiply-by-sum-i.md)
